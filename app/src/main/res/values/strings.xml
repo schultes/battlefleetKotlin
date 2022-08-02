@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Battle Fleet</string>
+    <string name="username">Nutzername</string>
+    <string name="email">Email</string>
+    <string name="password">Passwort</string>
+    <string name="loginNoun">Anmeldung</string>
+    <string name="login">Anmelden</string>
+    <string name="registerNoun">Registrierung</string>
+    <string name="register">Registrieren</string>
+    <string name="singlePlayer">Einzelspieler</string>
+    <string name="multiPlayer">Mehrspieler</string>
+    <string name="Difficulty_level">Schwierigkeitsgrad</string>
+    <string name="Easy">Leicht</string>
+    <string name="Middle">Mittel</string>
+    <string name="Hard">Schwer</string>
+    <string name="new_game">Neues Spiel</string>
+    <string name="submit">Bestätigen</string>
+    <string name="place_fleet">Platziere deine Flotte</string>
+    <string name="fleet">Flotte</string>
+    <string name="confirm">Bestätigen</string>
+    <string name="TextViewYourOpenGames">Deine laufenden Spiele:</string>
+    <string name="TextViewYourOpenRequestsGames">Deine erstellten Anfragen:</string>
+    <string name="TextViewOpenGames">Offene Spiele:</string>
+    <string name="TextViewOpenGamesEmptyLists">"Es sind noch keine Spiele vorhanden.\nErstelle ein neues!"</string>
+    <string name="vs_big"><b>VS.</b></string>
+    <string name="enemyMissing">"???"</string>
+    <string name="whoseTurn">am Zug</string>
+    <string name="backMenu">Startseite</string>
+    <string name="waiting_for_second_player">Warten, bis 2. Spieler beitritt ...</string>
+    <string name="waiting_for_all_grids">Warten, bis Schiffe platziert wurden ...</string>
+    <string name="your_are">"Du bist"</string>
+    <string name="user_is">"ist"</string>
+    <string name="Classic">Klassik</string>
+    <string name="Quick">Schnell</string>
+    <string name="Small">Klein</string>
+    <string name="singlePlayerGameMode">Variante</string>
+    <string name="create_game">Spiel erstellen</string>
+    <string name="settings">Einstellungen</string>
+    <string name="prepare_grid">Spielplan vorbereiten</string>
+    <string name="result">Ergebnis</string>
+    <string name="or">oder</string>
+    <string name="reserve_headline">Reservierung</string>
+    <string name="open">Offen</string>
+    <string name="reserve">Reserviert</string>
+    <string name="playerName2">Mitspieler Name</string>
+    <string name="vs_small">vs.</string>
+    <string-array name="login_errors">
+        <item>Bitte gib deine E-Mail-Adresse und Passwort ein.</item>
+        <item>Es gibt noch kein Nutzerkonto mit dieser E-mail-Adresse.</item>
+        <item>Leider ist dein eingegebenes Passwort falsch.</item>
+        <item>Die angegebene E-Mail-Adresse ist ungültig.</item>
+    </string-array>
+    <string-array name="register_errors">
+        <item>Bitte gib einen Nutzernamen ein.</item>
+        <item>Der Nutzername darf keine Leerzeichen enthalten.</item>
+        <item>Bitte gib eine E-Mail-Adresse ein.</item>
+        <item>Die E-Mail-Adresse darf keine Leerzeichen enthalten.</item>
+        <item>Bitte gib ein Passwort ein.</item>
+        <item>Das Passwort darf keine Leerzeichen enthalten.</item>
+        <item>Dein Nutzername muss mindestens 3 Zeichen lang sein.</item>
+        <item>Dein Passwort muss mindestens 5 Zeichen lang sein.</item>
+        <item>Der Nutzername ist bereits vergeben.</item>
+        <item>Die angegebene E-Mail-Adresse ist ungültig.</item>
+        <item>Für die angegebene E-Mail-Adresse gibt es schon einen Account.</item>
+    </string-array>
+    <string-array name="info_text">
+        <item>Herzlichen Glückwunsch!</item>
+        <item>Schade!</item>
+        <item>Ups!</item>
+    </string-array>
+    <string-array name="winner_text">
+        <item>Du hast gegen </item>
+        <item>gewonnen!</item>
+        <item>verloren!</item>
+        <item>Du hast gegen die CPU gewonnen!</item>
+        <item>Du hast gegen die CPU verloren!</item>
+        <item>Das Spiel wurde leider abgebrochen!</item>
+    </string-array>
+    <string-array name="difficulty_text">
+        <item>(Schwierigkeitsgrad: Einfach)</item>
+        <item>(Schwierigkeitsgrad: Mittel)</item>
+        <item>(Schwierigkeitsgrad: Schwer)</item>
+    </string-array>
+</resources>
